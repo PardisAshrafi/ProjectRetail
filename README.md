@@ -206,6 +206,7 @@ Excel — validation and exploratory analysis
 GitHub — version control and documentation
 
 📁 Project Structure
+```
 Retail-Sales-Customer-Analytics/
 │
 ├── data/
@@ -228,6 +229,7 @@ Retail-Sales-Customer-Analytics/
 │ └── executive_summary.pdf
 │
 └── README.md
+```
 
 🔐 Data Privacy Note
 
